@@ -22,7 +22,7 @@ For example, 12311121 will count as one triad, as the mouse entered three unique
 12132121231 will count as 1[2[1[3]2]1]2[1[23]1] as 5 triads, as the mouse entered three consecutive different arms 5 times
 (this approach moves through each entry, and looks at if the previous and next entries are different arms, then adds 1 score).
 
-The definition of uniique triads was taken from:
+The definition of unique triads was taken from:
 
 > The following dependent variables were registered: total number of arm entries, number of triads (sequence of three consecutive visits to different arms), and percentage of alternation. An alternation was defined as an entry into three different arms on consecutive choices. The percentage of alternation was calculated as the ratio of actual to maximum number of alternations. The maximum number of possible alternations was defined as the total number of arm entries minus 2.
 
