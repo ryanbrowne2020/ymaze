@@ -1,6 +1,7 @@
 # Y-maze Triads
 
 Please cite this script if you use it as: 
+
 `Ryan Browne, Y-Maze Triads, https://github.com/ryanbrowne2020/ymaze, (Access Year)`
 Thank you!
 
