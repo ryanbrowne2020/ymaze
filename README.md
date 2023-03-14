@@ -1,4 +1,9 @@
-# ymaze
+# Y-maze Triads
+
+Please cite this script if you use it as: 
+`Ryan Browne, Y-Maze Triads, https://github.com/ryanbrowne2020/ymaze, (Access Year)`
+Thank you!
+
 Simple analysis for mouse behavioural experiment Y-maze: get the number of triads
 (spontaneous alteration test).
 
