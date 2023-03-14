@@ -6,6 +6,8 @@ This file assumes you watched a recorded video of a Y-maze trial, and entered th
 as a string of numbers in a Word document, with the arms labelled as 1, 2, 3. 
 You can add several trials in the same document, just put each trial on a new line. 
 
+Note: you only need the t.pop() command if your lines have a line break / newline character at the end. 
+
 Run as 
 `python get_triads.py`
 
