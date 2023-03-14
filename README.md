@@ -23,4 +23,4 @@ The definition of uniique triads was taken from:
 
 (Galeano P, Martino Adami PV, Do Carmo S, Blanco E, Rotondaro C, Capani F, Castaño EM, Cuello AC, Morelli L. Longitudinal analysis of the behavioral phenotype in a novel transgenic rat model of early stages of Alzheimer's disease. Front Behav Neurosci. 2014 Sep 16;8:321. doi: 10.3389/fnbeh.2014.00321. )
 
-Note is script just prints to the terminal. You could modify it to output to a tsv file for statistical analysis, and so on. 
+Note: this script just prints to the terminal. You could modify it to output to a tsv file for statistical analysis, and so on. 
